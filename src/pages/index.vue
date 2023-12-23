@@ -1,5 +1,10 @@
+<script setup>
+import Default from '../layouts/default.vue'
+</script>
+
 <template>
   <div>
-    <h1 class="font-default">coracle test</h1>
+    <Default>
+    </Default>
   </div>
 </template>
