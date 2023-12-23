@@ -107,7 +107,7 @@ import { ChevronDownIcon } from '@heroicons/vue/20/solid'
 
 const products = [
   { name: 'Instant', description: 'You going camping? We gotchu. You going on a road trip? Yep, we got the coffee covered.', href: '#' },
-  { name: 'Wholebean', description: 'How do coffee beans stay warm during winter? They huddle in a \'whole\' lot of bags!', href: '#' },
+  { name: 'Whole Bean', description: 'How do coffee beans stay warm during winter? They huddle up in a \'whole\' lot of bean bags!', href: '#' },
   { name: 'Wholesale', description: 'This page is for approved wholesale customers only. Jealous? Apply for a wholesale account here.', href: '#' },
 ]
 

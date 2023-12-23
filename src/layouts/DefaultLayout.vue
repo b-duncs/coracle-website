@@ -1,10 +1,10 @@
 <script setup>
-import AppHeader from '../components/AppHeader.vue'
+import Header from '../components/DefaultHeader.vue'
 </script>
 
 <template>
   <div>
-    <AppHeader />
+    <Header />
     <slot />
   </div>
 </template>

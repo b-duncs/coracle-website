@@ -1,5 +1,5 @@
 <script setup>
-import Default from '../layouts/default.vue'
+import Default from '../layouts/DefaultLayout.vue'
 </script>
 
 <template>
